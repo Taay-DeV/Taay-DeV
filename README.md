@@ -8,7 +8,7 @@ const tay = {
   Linguagens: [Html, Css, Java, Javascript, Typescript],
   Frameworks: [Angular, Spring Boot]
 
-  Perfil em construção ...
+  ...Em construção ...
 
 ```
 
