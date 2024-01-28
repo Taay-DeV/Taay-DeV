@@ -7,7 +7,7 @@ const tay = {
   pronome: "Ela" | "Dela",
   Linguagens: [Html, Css, Javascript, Typescript],
   Frameworks: [Angular],
-  Plataforma: [Git && Github]
+  Plataforma: [Git && Github],
   Estudando: [Java && Spring Boot]
 }
   ...Em construção ...
